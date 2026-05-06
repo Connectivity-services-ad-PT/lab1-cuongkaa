@@ -5,7 +5,7 @@ Thư mục này dùng để nộp minh chứng thiết lập môi trường lab.
 ## Sinh viên điền thông tin
 
 - Họ tên: Trịnh Xuân Cường
-- Mã sinh viên: 1771020118
+- Mã sinh viên: 1771020118      
 - Nhóm: 4b
 - Vai trò dự kiến trong nhóm: Developer
 - Hệ điều hành: Windows 11 (WSL2 – Docker Desktop)
